@@ -1,17 +1,14 @@
-# E-Commerce App - React Native
+# E-Commerce App - React Native (Coffe_app)
 
 Una aplicación de comercio electrónico desarrollada con React Native que ofrece una experiencia de compra completa y fácil de usar.
 
 ## Funcionalidades Principales
+Es una aplicacion desarrollada para la interacion de una cafeteria y sus usuarios. Se realizan sus pedidos de manera mas rapida y segura,uilizando las funcionalidades de la aplicacions como la navegabilidad entre las pantallas dividias por categoria, productos, detalle, de esta manera se podra cargar en el carrito hasta llegar a la confirmacion de la orden.
 
 ### Pantalla de Cuenta
 
 - **Acceso seguro:** Solo los usuarios autenticados pueden acceder a la pantalla de perfil y realizar compras.
 - **Información del usuario:** Muestra detalles del usuario, como nombre y dirección.
-
-<img src="./screenshot/Screenshot_1705910419.png" width="300" >
-<img src="./screenshot/Screenshot_1705910424.png" width="300" >
-
 
 ### Autenticación con Firebase
 
@@ -35,9 +32,7 @@ Una aplicación de comercio electrónico desarrollada con React Native que ofrec
 - Muestra el precio y el stock disponible.
 - Permite agregar el producto al carrito.
 
-<img src="./screenshot/Screenshot_1705910438.png" width="300" >
-<img src="./screenshot/Screenshot_1705910442.png" width="300" >
-<img src="./screenshot/Screenshot_1705910445.png" width="300" >
+<!-- screenshot de la aplicacion -->
 
 ### Navegación Inferior
 
@@ -90,8 +85,7 @@ Una aplicación de comercio electrónico desarrollada con React Native que ofrec
 - **Pestaña 3 - Órdenes:** Historial de órdenes realizadas.
 - **Pestaña 4 - Perfil:** Información del usuario, ubicación y carga de imagen de perfil.
 
-<img src="./screenshot/Screenshot_1705910459.png" width="300" >
-<img src="./screenshot/Screenshot_1705910463.png" width="300" >
+<!-- screenshot de la aplicacion -->
 
 ## Tecnologías Utilizadas
 
@@ -114,7 +108,7 @@ Una aplicación de comercio electrónico desarrollada con React Native que ofrec
 
 ## Contacto
 
-Para preguntas o soporte, contacta a [tu-email@example.com].
+Para preguntas o soporte, contacta a [gonzalo.blancobur@gmail.com].
 
 ---
 

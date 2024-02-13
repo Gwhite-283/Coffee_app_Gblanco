@@ -35,10 +35,12 @@ const styles = StyleSheet.create({
     },
     text:{
         fontSize:20,
-        fontFamily:"Josefin"
+        fontFamily:"Josefin",
+        top:25
     },
     logoutIcon:{
       position:"absolute",
+      top:40,
       right:10
     }
 })
