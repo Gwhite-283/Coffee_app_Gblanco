@@ -4,6 +4,7 @@ import {MaterialIcons} from '@expo/vector-icons'
 import { deleteAllSession } from '../database'
 import { useSelector,useDispatch } from 'react-redux'
 import { clearUser } from '../features/auth/authSlice'
+import { borderBottom, borderRadius } from '@mui/system'
 
 const Header = ({title = "Producto"}) => {
   const dispatch = useDispatch()
@@ -27,20 +28,22 @@ export default Header
 
 const styles = StyleSheet.create({
     container:{
-        backgroundColor:colors.green1,
+        backgroundColor: "#846A49",
         width:"100%",
-        height:80,
+        height:110,
         justifyContent:"center",
-        alignItems:"center"
+        alignItems:"center",
+        borderBottomRightRadius: 20,
+        borderBottomLeftRadius: 20
     },
     text:{
-        fontSize:20,
+        fontSize:35,
         fontFamily:"Josefin",
         top:25
     },
     logoutIcon:{
       position:"absolute",
-      top:40,
+      top:55,
       right:10
     }
 })

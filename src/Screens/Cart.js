@@ -33,16 +33,17 @@ export default Cart
 const styles = StyleSheet.create({
     container:{
         flex:1,
-        marginBottom:130
+        marginBottom:160
     },
     confirmContainer:{
-        backgroundColor:"grey",
+        backgroundColor:"#9B7F67",
         padding:25,
         flexDirection:"row",
         justifyContent:"space-between",
     },
     text:{
         color:"white",
-        fontFamily:"PlayFair"
+        fontFamily:"PlayFair",
+        fontSize: 25,
     }
 })

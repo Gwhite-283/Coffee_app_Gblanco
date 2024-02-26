@@ -26,10 +26,16 @@ const styles = StyleSheet.create({
     container:{
         width:"80%",
         marginHorizontal:"10%",
-        backgroundColor:colors.green2,
-        margin:10,
-        padding:10,
+        backgroundColor:"#E1DAD1",
+        top:50,
+        margin:20,
+        padding:20,
         justifyContent:"center",
-        alignItems:"center"
+        alignItems:"center",
+        borderRadius: 20
+    },
+
+    text:{
+        fontSize: 25,
     }
 })

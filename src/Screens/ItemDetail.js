@@ -75,7 +75,7 @@ const styles = StyleSheet.create({
       fontWeight:"bold"
      },
      price:{
-      fontSize:30
+      fontSize:50
      },
      buyNow:{
       backgroundColor:colors.green1,
