@@ -78,7 +78,7 @@ const Signup = ({ navigation }) => {
           isSecure={true}
           error={confirmPasswordError}
         />
-        <SubmitButton title="Send" onPress={onSubmit} />
+        <SubmitButton style={styles.SubmitButton} title="Send" onPress={onSubmit} />
         <Text style={styles.sub}>Already have an account?</Text>
         <Pressable onPress={() => navigation.navigate("Login")}>
           <Text style={styles.subLink}>Login</Text>
