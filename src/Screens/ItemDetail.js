@@ -75,15 +75,16 @@ const styles = StyleSheet.create({
       fontWeight:"bold"
      },
      price:{
-      fontSize:50
+      fontSize:40
      },
      buyNow:{
-      backgroundColor:colors.green1,
-      paddingVertical:5,
-      paddingHorizontal:10,
+      backgroundColor:"#C1A56F",
+      paddingVertical:15,
+      paddingHorizontal:30,
       borderRadius:5
      },
      buyNowText:{
-      color:"white"
+      color:"white",
+      fontSize:20,
      }
 })

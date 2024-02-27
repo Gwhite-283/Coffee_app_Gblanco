@@ -47,9 +47,9 @@ const Login = ({ navigation }) => {
           error=""
         />
         <SubmitButton onPress={onSubmit} title="Send" />
-        <Text style={styles.sub}>Don't have an account?</Text>
+        <Text style={styles.sub}>No tienes cuenta?</Text>
         <Pressable onPress={() => navigation.navigate("Signup")} >
-          <Text style={styles.subLink}>Sign up</Text>
+          <Text style={styles.subLink}>Crear cuenta</Text>
         </Pressable>
       </View>
     </View>
@@ -89,15 +89,16 @@ const styles = StyleSheet.create({
     color: "black",
   },
   sub: {
-    fontSize: 14,
+    fontSize: 16,
     fontFamily: "Josefin",
-    marginTop: 10,
+    marginTop: 15,
     color: "gray",
   },
   subLink: {
     fontSize: 14,
     fontFamily: "Josefin",
-    color: "blue",
+    marginTop:10,
+    color: "black",
     textDecorationLine: "underline",
   },
 });
