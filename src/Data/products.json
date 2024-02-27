@@ -6,7 +6,7 @@
     "discountPercentage": 16,
     "id": 0,
     "images": [
-      "https://i.dummyjson.com/data/products/100/1.jpg",
+      "https://i.postimg.cc/r0JrdL95/coffee5.png",
       "https://i.dummyjson.com/data/products/100/2.jpg",
       "https://i.dummyjson.com/data/products/100/3.jpg",
       "https://i.dummyjson.com/data/products/100/thumbnail.jpg"
@@ -14,7 +14,7 @@
     "price": 2200,
     "rating": 4.74,
     "stock": 133,
-    "thumbnail": "https://i.dummyjson.com/data/products/100/thumbnail.jpg",
+    "thumbnail": "https://i.postimg.cc/r0JrdL95/coffee5.png",
     "title": "Cappuccino Black"
   },
   {
@@ -33,7 +33,7 @@
     "price": 2800,
     "rating": 4.69,
     "stock": 94,
-    "thumbnail": "https://i.dummyjson.com/data/products/1/thumbnail.jpg",
+    "thumbnail": "https://i.postimg.cc/Ln7ZgDjQ/coffee2.png",
     "title": "Latte D"
   },
   {
@@ -51,7 +51,7 @@
     "price": 1200,
     "rating": 4.44,
     "stock": 34,
-    "thumbnail": "https://i.dummyjson.com/data/products/2/thumbnail.jpg",
+    "thumbnail": "https://i.postimg.cc/zybKx6J1/coffee.jpg",
     "title": "Expresso suave"
   },
   {
@@ -66,7 +66,7 @@
     "price": 1650,
     "rating": 4.09,
     "stock": 36,
-    "thumbnail": "https://i.dummyjson.com/data/products/3/thumbnail.jpg",
+    "thumbnail": "https://i.postimg.cc/YjrF5hpR/coffee3.png",
     "title": "Mocha white"
   },
   {
@@ -85,7 +85,7 @@
     "price": 800,
     "rating": 4.3,
     "stock": 123,
-    "thumbnail": "https://i.dummyjson.com/data/products/4/thumbnail.jpg",
+    "thumbnail": "https://i.postimg.cc/ppyFd45n/coffee1.png",
     "title": "Americano doble"
   },
   {
@@ -102,7 +102,7 @@
     "price": 2200,
     "rating": 4.09,
     "stock": 32,
-    "thumbnail": "https://i.dummyjson.com/data/products/5/thumbnail.jpg",
+    "thumbnail": "https://i.postimg.cc/r0JrdL95/coffee5.png",
     "title": "Cappiccino White"
   },
   {
@@ -120,7 +120,7 @@
     "price": 1750,
     "rating": 4.57,
     "stock": 83,
-    "thumbnail": "https://i.dummyjson.com/data/products/6/thumbnail.png",
+    "thumbnail": "https://i.postimg.cc/Ln7ZgDjQ/coffee2.png",
     "title": "Latte canela"
   },
   {
@@ -138,7 +138,7 @@
     "price": 1600,
     "rating": 4.25,
     "stock": 50,
-    "thumbnail": "https://i.dummyjson.com/data/products/7/thumbnail.jpg",
+    "thumbnail": "https://i.postimg.cc/Ln7ZgDjQ/coffee2.png",
     "title": "Latte snow"
   },
   {
@@ -157,7 +157,7 @@
     "price": 1800,
     "rating": 4.43,
     "stock": 68,
-    "thumbnail": "https://i.dummyjson.com/data/products/8/thumbnail.jpg",
+    "thumbnail": "https://i.postimg.cc/zybKx6J1/coffee.jpg",
     "title": "Expresso doble"
   },
   {
@@ -176,7 +176,7 @@
     "price": 900,
     "rating": 4.54,
     "stock": 96,
-    "thumbnail": "https://i.dummyjson.com/data/products/9/thumbnail.jpg",
+    "thumbnail": "https://i.postimg.cc/ppyFd45n/coffee1.png",
     "title": "Americano chico"
   },
   {
@@ -194,7 +194,7 @@
     "price": 1400,
     "rating": 4.43,
     "stock": 89,
-    "thumbnail": "https://i.dummyjson.com/data/products/10/thumbnail.jpeg",
+    "thumbnail": "https://i.postimg.cc/YjrF5hpR/coffee3.png",
     "title": "Mocha one"
   }
 ]
