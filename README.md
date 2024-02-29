@@ -34,6 +34,15 @@ Es una aplicacion desarrollada para la interacion de una cafeteria y sus usuario
 
 <!-- screenshot de la aplicacion -->
 
+<img src="./screenshot/IMG-20240229-WA0005.png" width="300" >
+<img src="./screenshot/IMG-20240229-WA0006.png" width="300" >
+<img src="./screenshot/IMG-20240229-WA0078.png" width="300" >
+<img src="./screenshot/IMG-20240229-WA0087.png" width="300" >
+<img src="./screenshot/IMG-20240229-WA0091.png" width="300" >
+<img src="./screenshot/IMG-20240229-WA000101.png" width="300" >
+<img src="./screenshot/IMG-20240229-WA00111.png" width="300" >
+
+
 ### Navegación Inferior
 
 ```javascript
@@ -99,7 +108,7 @@ Es una aplicacion desarrollada para la interacion de una cafeteria y sus usuario
 
 ## Instalación
 
-1. Clona el repositorio: `git clone https://github.com/tu-usuario/tu-aplicacion.git`
+1. Clona el repositorio: `git clone https://github.com/Gwhite-283/Coffee_app_Gblanco.git`
 2. Instala las dependencias: `npm install`
 3. Configura las claves de API para servicios externos (Expo-Location, Firebase, etc.).
 4. Configura las credenciales de Firebase en tu proyecto.
