@@ -42,8 +42,8 @@ const styles = StyleSheet.create({
         gap:30
     },
     text:{
-      width:"60%",
-      textAlign:"center",
+      width:"70%",
+      margin:5,
       fontSize:20
     },
     textMin:{
@@ -54,6 +54,6 @@ const styles = StyleSheet.create({
     image:{
         minWidth:90,
         height:90,
-        width:"30%"
+        width:"40%"
     }
 })

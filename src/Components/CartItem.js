@@ -5,12 +5,11 @@ import { useDispatch } from 'react-redux'
 import { removeItem } from '../features/cart/cartSlice'
 
 const CartItem = ({ item }) => {
-    const dispatch = useDispatch()
+  const dispatch = useDispatch()
 
-    const handleRemoveItem = () => {
-        dispatch(removeItem({ id: item.id }))
-    }
-
+  const handleRemoveItem = () => {
+    dispatch(removeItem( item.id ))
+}
 
     return (
         <View style={styles.container}>
